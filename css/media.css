@@ -1,0 +1,335 @@
+@media(min-width: 1200px){
+	
+}
+@media(min-width: 992px) and (max-width: 1199px){
+.align h1 {
+    font-size: 38px;
+}
+.btn-download{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.btn-view{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+form{
+    width: 80%;
+}
+form input[type="submit"] {
+    padding: 6px 13px;
+    font-size: 14px;
+}
+}
+@media(min-width: 768px) and (max-width: 991px){
+.align h1 {
+    font-size: 28px;
+    margin-top: 8px;
+}
+.btn-download {
+    text-transform: uppercase;
+    padding: 6px 14px;
+    margin-top: 11px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.btn-view{
+    text-transform: uppercase;
+    padding: 6px 14px;
+    margin-top: 11px;
+    font-size: 14px; 
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+.feature-section h1 {
+    font-size: 30px;
+}
+.device-section h1{
+    font-size: 28px;
+}
+.customize-section h1{
+    font-size: 28px;
+}
+.slider-section h1{
+    font-size: 28px;
+}
+.like-content h1{
+    font-size: 20px;
+}
+.like-section .btn-view{
+    margin-right: 0;
+}
+.pricing-section h1{
+    font-size: 28px;
+}
+.contact-section h1{
+    font-size: 28px;
+}
+form{
+    width: 85%;
+}
+form input[type="submit"] {
+    padding: 3px 10px;
+    font-size: 14px;
+}
+
+}
+@media(min-width: 576px) and (max-width: 767.5px){
+    .navbar-light .navbar-nav .nav-item{
+        margin: auto;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-top: 15px;
+        margin-left: 0;
+        display: inline-block;
+    }
+    .align{
+        margin-top: 12px;
+        text-align: center;
+    }
+    .align h1 {
+    font-size: 27px;
+ }
+  .align p{
+    font-size: 18px;
+ }
+ .btn-download{
+    margin-top: 0;
+    font-size: 14px;
+    letter-spacing: normal;
+    padding: 8px 18px
+ }
+ .btn-view{
+    margin-top: 0;
+    font-size: 14px;
+    letter-spacing: normal;
+    padding: 8px 18px
+ }
+.phone{
+    display: none;
+}
+.feature-section h1 {
+    font-size: 28px;
+    margin-top: -5px;
+ }
+ .feature-collam h3{
+    font-size: 22px;
+ }
+ .feature-icon{
+    margin-bottom: -10px;
+ }
+ .device-section{
+    /*text-align: center;*/
+ }
+ .device-image{
+    display: none;
+ }
+ .device-section h1{
+    font-size: 28px;
+    margin-top: -5px;
+ }
+ .customize-section{
+    text-align: center;
+ }
+ .customize-section h1{
+     font-size: 28px;
+    margin-top: -5px;
+ }
+ .customize-section h1{
+    font-size: 28px;
+    margin-top: -5px;
+ }
+ .customize-section .item{
+    text-align: center;
+ }
+ .slider-man{
+    justify-content: center;
+}
+.like-content h1{
+    font-size: 25px;
+    text-align: center;
+}
+
+.like-section .btn-view{
+    margin-right: 0;
+    font-size: 14px;
+    padding: 4px 9px;
+    letter-spacing: normal;
+}
+
+.like-section .btn-download{
+    font-size: 14px;
+    padding: 4px 9px;
+    letter-spacing: normal;
+}
+.like-button{
+    text-align: center;
+    margin-top: 15px;
+}
+form{
+    bottom: -235px;
+    width: 70%;
+}
+}
+form input[type="submit"]{
+    font-size: 14px;
+    padding: 4px 9px;
+    letter-spacing: normal;
+}
+
+@media(max-width: 575.5px) and (min-width: 0){
+.navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+    margin-left: 0px;
+    display: inline-block;
+ }
+.align{
+	text-align: center;
+	margin-top: 12px;
+}
+ .align h1 {
+    font-size: 20px;
+  
+ }
+ .align p{
+ 	font-size: 16px;
+ }
+ .btn-download {
+    padding: 4px 8px;
+    margin-top: 0px;
+    font-size: 14px;
+    letter-spacing: normal;
+    margin-bottom: 10px;
+}
+.btn-view {
+	padding: 4px 8px;
+	margin-top: 0px;
+	font-size: 14px;
+    letter-spacing: normal;
+    margin-left: 5px;
+    background: transparent;
+    margin-bottom: 10px;
+}
+.phone{
+	display: none;
+}
+.feature-section{
+    margin-top: 20px;
+}
+.feature-section h1 {
+    font-size: 22px;
+    margin-top: -5px;
+}
+.feature-collam {
+    margin-top: 15px !important;
+}
+.feature-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.feature-icon i {
+    color: #a7e9ff;
+    font-size: 22px;
+}
+.feature-collam h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.feature-collam p {
+    font-size: 16px;
+    margin-top: -5px;
+}
+.device-section{
+    /*text-align: center;*/
+}
+.device-image{
+    display: none;
+}
+.device-section h5{
+    text-align: center;
+}
+.device-section h1{
+    font-size: 22px;
+    margin-top: -5px;
+    text-align: center;
+}
+.device-section p{
+    font-size: 16px;
+    margin-top: -5px;
+    text-align: center;
+}
+.customize-section{
+    padding-top: 20px;
+    text-align: center;
+}
+.customize-section h1{
+    font-size: 22px;
+    margin-top: -5px;
+}
+.slider-section{
+    padding-top: 20px;
+    text-align: center;
+}
+.slider-section h1{
+    font-size: 29px;
+    margin-top: -5px;
+}
+.slider-section p{
+    font-size: 16px;
+}
+.slider-man{
+    justify-content: center;
+}
+.slider-image{
+    width: 30%;
+}
+.like-content h1{
+    font-size: 20px;
+    text-align: center;
+}
+.like-button{
+    text-align: center;
+}
+.like-button .btn-view{
+    margin-left: 0;
+}
+.like-button .btn-download{
+    margin-left: -8px;
+}
+.pricing-section{
+    margin-top: 20px;
+}
+.pricing-section h1{
+    font-size: 30px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+.xm{
+    margin-bottom: 20px !important;
+}
+.contact-section{
+    padding-top: 20px;
+    padding-bottom: 400px !important;
+}
+.contact-section h1{
+    font-size: 30px;
+    margin-top: -5px;
+    margin-bottom: 15px;
+}
+.contact-section p{
+    font-size: 16px;
+    margin-top: -10px;
+}
+form{
+    width: 90%;
+}
+.footer h2{
+    font-size: 16px;
+}
+.all-icon i {
+    font-size: 18px;
+    padding: 8px 14px;
+}
+
+}
